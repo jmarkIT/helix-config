@@ -21,4 +21,4 @@ enable = true
 auto-signature-help = false
 
 [keys.insert]
-C-p = "signature_help"
+C-c = "signature_help"
